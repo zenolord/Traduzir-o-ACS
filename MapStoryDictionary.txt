@@ -1,16 +1,16 @@
-﻿Key	Value
-分享码错误或者召唤失败，请重新再试	Invalid Code or Summon fail, try again
-请输入分享码	Enter Share code
-拍卖功能还未激活	Auction function not yet activated
-这一次拍卖还没开启	Auction has not yet begun
-还有赎金没交,拍卖行拒绝了你	Money has not been submitted, the auction house rejected you.
-[NAME]什么都不想做，还是离开这里吧。	[NAME] didn't want to do a thing but leave.
-他们被吓跑了，奇观建设继续进行。	They were frightened off, and so wonder construction continues.
-辩论旷日持久，最终也没有个结果，奇观建设被耽误了。	Debate dragged on, and so wonder construction was delayed.
-他们骂了几句就走了，奇观建设继续进行。	They swore and left, and so wonder construction continues.
-来的人越来越多，很多人甚至还对建筑设计评头论足，奇观建设被耽误了。	More and more came to critique the design, and so the consruction of the wonder was delayed.
-他们居然还责备我们不领情，奇观建设继续进行。估计他们明天也不会来了。	They left, accusing us of being ungrateful, and wonder construction continued. They probably won't come tomorrow either.
-他们说了好半天话，最终给了我们一朵纸做的红花，奇观建设被耽误了。	They talked for ages and gave us a badge made of paper, so the wonder construction was delayed.
+Key	Value
+分享码错误或者召唤失败，请重新再试	Código inválido ou falha de invocação, tente novamente
+请输入分享码	Insira o código de compartilhamento
+拍卖功能还未激活	Função de leilão ainda não ativada
+这一次拍卖还没开启	O leilão ainda não começou
+还有赎金没交,拍卖行拒绝了你	O dinheiro não foi enviado, a casa de leilões rejeitou você.
+[NAME]什么都不想做，还是离开这里吧。	[NAME] não queria fazer nada além de ir embora. 
+他们被吓跑了，奇观建设继续进行。	Eles foram assustados, e então a construção de maravilhas continua.
+辩论旷日持久，最终也没有个结果，奇观建设被耽误了。	O debate se arrastou, e a construção da maravilha foi adiada.
+他们骂了几句就走了，奇观建设继续进行。	Eles juraram e partiram, e assim a construção maravilhosa continua. 
+来的人越来越多，很多人甚至还对建筑设计评头论足，奇观建设被耽误了。	Mais e mais pessoas passaram a criticar o projeto e, portanto, a construção da maravilha foi adiada.
+他们居然还责备我们不领情，奇观建设继续进行。估计他们明天也不会来了。	Eles foram embora, acusando-nos de sermos ingratos, e a construção de maravilhas continuou. Eles provavelmente não virão amanhã também.
+他们说了好半天话，最终给了我们一朵纸做的红花，奇观建设被耽误了。	Eles conversaram por muito tempo e nos deram uma medalha feita de papel,  então a construção da maravilha foi adiada. 
 {0}大显神通，召唤了大雨，灾难缓解了不少。	{0} performed a miracle, heavy rain was called forth, and the disaster relief was aided quite a bit.
 我方赈灾进度增加了{0}。	Our relief progress increased {0}.
 {0}大显神通，又减少了食物的产量，灾难加剧了。	{0} performed a miracle, food production decreased, and the disaster worsened.
@@ -433,13 +433,13 @@
 [NAME]施展神通，阻止了天灾蔓延。并救助灾民，重新安定。[NAME]之善名广为流传，收获了一些信仰与信徒。此举顺应天心，也为[NAME]带来了一些功德。	[NAME] invoked a Miracle and put a stop to the spread. They saved refugees, bringing peace back. [NAME]'s good reputation became known far and wide, and received much Belief and many a Follower for it. This was in line with the Heavenly Heart, and so [NAME] gained many a Virtue for it.
 [NAME]小心翼翼的落入山涧的遗迹之中，此地似乎是一种巨大的，与当今建筑风格迥异的神殿。神殿两侧布满巨大的神像，正中有一块无字石碑。[NAME]以神念探入石碑查看，竟然从中获取一套前所未见的功法，似乎是典籍中所传的神道修行之法！	[NAME] entered the ravine…and found themselves in a huge temple with completely different style with contemporary buildings. There are huge statues on either side of the hall and a stone Stele in the center. [NAME] examines the Stele and realizes a Law never before seen…Could this be the Law of Shendao?!
 随着[NAME]的神念将石碑中的信息激活，整座神殿发生了剧烈的震动，转眼之间就化为一座废墟。[NAME]连忙施展遁法逃脱此地。	As [NAME] activated the Stele, the temple began to shake violently, turning into ruins. [NAME] escaped quickly.
-岐黄	Healing
-烹饪	Cooking
-版筑	Construction
-耕作	Farming
-采掘	Excavation
-雅艺	Artisanry
-巧匠	Crafting
+岐黄	Cura
+烹饪	Culinária
+版筑	Construção
+耕作	Agricultura
+采掘	Escavação
+雅艺	Artesanato
+巧匠	Forjamento
 处世	Social
 [rand_lable=desc_time,desc_place,desc_weather]，[name]在[obj_action]时，突然心中一动，对%s一道又有感悟。	[rand_lable=desc_time,desc_place,desc_weather], while [obj_action] , [name] suddenly sensed a change and had an epiphany regarding %s.
 [rand_lable=desc_time,desc_place,desc_weather]，[name]在[obj_action]时，突然心中一动，对天道又多了许多感悟。	[rand_lable=desc_time,desc_place,desc_weather], during [obj_action], [name] suddenly sensed a change and had various epiphanies regarding the Creed of Heaven.
@@ -510,14 +510,14 @@
 [NAME]觉得还是不要使用修改器为好。	[NAME] thinks we'd better not use any trainers.
 [NAME]运转元神，小心的投入蛟龙的逆鳞中。在接触的瞬间，无数破碎的记忆旋涡便将[NAME]吞没。	[NAME] turned around [ITS] Primordial Spirit and carefully cast it into Flood Dragon's Reversed Scale. The instant they came into contact, a whirlpool of countless fragmented memories swallowed [NAME] up.
 虽然外界只有一瞬，但识海之中不辩春秋，[NAME]在记忆旋涡中沉浮，瞬间已过%s年，等到[NAME]清醒，记忆里已经多了一些陌生的信息。	Although only an instant had gone by outside, a year or more had gone by in this sea of memories. [NAME] floated and sank, in that instant %s years had gone by. Upon awaking, [NAME]'s memories had some strange additions.
-大量的	Greatly
-巨量的	Massively
-真龙秘法-	Secret Law of the Dragon
-[NAME]苍老了%s年。	[NAME] aged %s years.
-[NAME]运转元神，小心的投入凶凤的真焱玉中。在接触的瞬间，无数破碎的记忆旋涡便将[NAME]吞没。	[NAME] turned around [ITS] Primordial Spirit and carefully cast it into the Phoenix Fire Jade. The instant they came into contact, a whirlpool of countless fragmented memories swallowed [NAME] up.
-飞凰秘法-	Secret Law of the Phoenix -
-[NAME]运转元神，小心的投入混沌的龙玉中。在接触的瞬间，无数破碎的记忆旋涡便将[NAME]吞没。	[NAME] turned round [ITS] Primordial Spirit and carefully cast into the Chaos Jade. The instant they came into contact, a whirlpool of countless fragmented memories swallowed [NAME] up.
-阴阳秘法-	Secret Law of Yin and Yang
+大量的	Muito
+巨量的	Massivamente
+真龙秘法-	Lei Secreta do Dragão
+[NAME]苍老了%s年。	[NAME] envelhecido %s anos.
+[NAME]运转元神，小心的投入凶凤的真焱玉中。在接触的瞬间，无数破碎的记忆旋涡便将[NAME]吞没。	[NAME] virou-se [ITS] Primordial Spirit and carefully cast it into the Phoenix Fire Jade. The instant they came into contact, a whirlpool of countless fragmented memories swallowed [NAME] up.
+飞凰秘法-	Lei Secreta da Fênix -
+[NAME]运转元神，小心的投入混沌的龙玉中。在接触的瞬间，无数破碎的记忆旋涡便将[NAME]吞没。	[NAME] virou-se [ITS] Primordial Spirit and carefully cast into the Chaos Jade. The instant they came into contact, a whirlpool of countless fragmented memories swallowed [NAME] up.
+阴阳秘法-	Lei Secreta do Yin e Yang
 因使用元神强行读取信息，%s上似乎多了一些裂纹……	As the Primordial Spirit had been used forcibly, %s seemed to have some extra cracks…
 %s上裂纹密布，似乎随时可能损坏了……	The cracks on %s were many, it looks like at any moment it would prove one too many.
 随着[NAME]的元神回归本体，%s发出一声清脆的声音，碎裂为粉末。	As [NAME]'s Primordial Spirit returned whence it came, a clear sound resonated from %s as it cracked, turning into dust.
@@ -575,7 +575,7 @@
 [NAME]遵循记忆中的手法，轻而易举的解开了封印。异界气息散去的同时，其中的物件也暴露了出来。而物件之上还附着有一段神念信息，果然是四师兄所留。[NAME]欣喜万分，激活了四师兄留下的神念。	[NAME] easily broke the seal relying solely on memory. As aura from a foreign world coalesced, something appeared. And there was a message from the fourth master upon it. [NAME] activated the message.
 [NAME]查阅之下，发现这段神念仅仅有一部分与此物有关的信息可辨认，其余的信息皆尽残缺，无法辨识。似乎需要从其他异界之物中寻找对应的神念碎片才能拼合成完整的信息。\n        [img]%s[/img]	[NAME] found that only a portion related information could be identified, the rest was incomplete. It seemed that something else was needed from the other world to fully understand the message. \n        [img]%s[/img]
 [size=12][color=#D06508]已经从[/color][/size]%s[size=12][color=#D06508]中记录了残留的信息。[/color][/size]\n        [img]%s[/img]\n%s	[size=12][color=#D06508]Already recorded what was missing from [/color][/size]%s[size=12][color=#D06508] [/color][/size]\n        [img]%s[/img]\n%s
-来自异界的信息	Information from the Other World
+来自异界的信息	Informações do outro mundo
 [NAME]仔细思索，终于想起这封印手法竟然是太一门中独传的一种偏门封印术，据说当年也只有四师兄李太一擅长此法。	[NAME] thought carefully, and realized that this sealing technique was one unique to the Taiyi Sect.
 “难道当年灭门夜，四师兄并没有陨落？此物竟然和四师兄有关联？”[NAME]心神激荡，振奋非常，连忙从记忆中回忆此术的解印之法。	"So the fourth master didn't pass when the Sect was Destroyed back then? This has to do with the fourth master then? "[NAME] was excited and even was able to recall the method for breaking the seal.
 [size=12][color=#000000]      我乃太一门四弟子李太一，当年太一门大祸，我于危难之中寻得一线生机，流落异界数十年，归家无门。数十年求索，只寻得一些奇门异法，将神念寄托于物件之上，送入虚空，不知这些杂物能否度过虚空中的重重危机，抵达家乡世界？此物以太一门独门封印封锁，如有人可见此信息，必是万幸天不绝我太一！就是不知是哪位师兄，师弟当面？现如今我太一度过危难与否？当年仇人是谁？不管如何，只要有人看到这段信息，打开封印，我就会产生感应，便能证明横渡虚空是可能的，真想马上回归家乡，与你一同手刃仇人，复兴太一。\n      也许太久无人可以说心里话，忍不住想说说这些年的经历，我流落的这方世界也是一个有人类的世界，似乎刚刚从一次灭世战争中恢复过来。只是此地灵气匮乏，并没有修行之道，这些人类以凡人手段竟然能打到世界毁灭，还真得是不可思议。\n      这些年，我暂住在一个叫“波西亚”的城镇里，这里的生活还不错，除了总是被催促做“箱子如何了？”。此地灵气匮乏，但是这里的凡人居然能以特殊手段驾驭“雷霆之力”。逐渐熟悉之下，我也找到了一些利用雷霆之力增幅修为，尝试破碎虚空的方法，似乎看到了回家的希望，这是第四次尝试，希望一切顺利吧……这次寄托神念的物品，都是我这些年收集的一些此地有趣的设施建筑，想必能看到这些信息的你也都得到了，虽然不一定有用，但也收下留个纪念吧！\n      祝愿陌生的同门一切安好，祝太一长存！[/color][/size]	[size=12][color=#000000]      I am the fourth disciple of the Taiyi, Li Taiyi. During the Taiyi disaster back then I found a ray of hope as I ended up in another realm for decades. After decades of searching, we only found ways to imbue items with our thoughts and pass them through the void…though who knows if they actually made it all the way through to the other side… This is using a seal unique to the Taiyi Sect. If anyone else saw this… This means our sect survives in a way! But which master was it? Have the Taiyi passed through the crisis? Who was the enemy back then? Regardless, there only needed to be someone to see this, to open the seal, and I'll be able to prove it's possible to cross the void. I want to return home immediately, to see you all, and to revive the Taiyi. \n      Haven't been able to speak from my heart for years, I can't help but want to tell you about my journey. This world that I have wandered into also has humans and it felt as if it had just recovered from an apocalyptic war. There was a distinct lack of Qi here, yet these people were able to destroy the world. It's incredible. \n      These years, I've been living in a town called "Portia." It's not bad other than when I'm urged to make a box. ". Qi is lacking here, yet the commoners are able to command the "Power of Thunder." Gradually becoming more familiar, I also found some ways to use the power of thunder to augment Cultivation and to try to break the void. This is the 4th try, hopefully everything goes smoothly… Everything entrusted to you were gathered by me during my stay, and it must be said that despite what's happened here, the commoners are all optimistic. Whoever reads this may not find it useful, but please, take them as a reminder! \n      Long Live the Taiyi Sect![/color][/size]
@@ -649,25 +649,25 @@
 [NAME]尽情放纵，十分舒适。获得了5日的好心情。	[NAME] had a grand old time. Their mood would be great for the next 5 days.
 [NAME]在大竹林深处反复搜寻，终于在某个溪流边寻得这枚黑白相间的玉佩。	[NAME] searched carefully in the deep of the Great Bamboo Forest, and found this jade at the bank of a stream.
 玉佩碎裂之后，远处有一道天貊的气息飞了过来。	After the jade is broken, a breath of divine panda fly from far away.
-岐黄	Healing
-烹饪	Cooking
-版筑	Construction
-耕作	Farming
-采掘	Excavation
-雅艺	Artisanry
-巧匠	Crafting
+岐黄	Cura
+烹饪	Culinária
+版筑	Construção
+耕作	Agricultura
+采掘	Escavação
+雅艺	Artesanato
+巧匠	Forjamento
 处世	Social
 [rand_lable=desc_time,desc_place,desc_weather]，[name]在垂钓时，突然心中一动，对%s一道又有感悟。	[rand_lable=desc_time,desc_place,desc_weather], [name] is fishing and suddenly have an Eureka about %s.
 {0}只将少量食物分给了路人，几乎没人通过这次活动认识我们。	{0} gave out a bit of food to passersby, but no one really got to know us as a result of this activity.
 {0}抓了一个路人，强行把食物送给他。那人一脸茫然，怀疑食物有毒，转了个街角就扔了。	{0} forced a passerby to take Food. The person was utterly confused, figured the food was poisoned, and tossed it after going around the corner.
 {0}像小贩一样摆了摊，吆喝道：“快来快来！我们送食物了！人人有份！”	{0} set up a stall and said: "Come one, come all! We're giving out Food! There's enough for everyone! "
-由于时间有限，没有办法将更多的食物送给别人了。	Time was limited, so there was no way to give Food to everyone.
-{0}准备将灵石分给路人。	{0} prepared to give Spirit Stones to passersby.
-但没人知道这是什么。	Yet no one knew what the glittering stones were.
-{0}准备将木头分给路人。	{0} prepared to give wood to passersby.
-但没人需要这么大一根木棍。	No one needed such a large, wooden club though.
-{0}准备将石料分给路人。	{0} prepared to give Stone to Passersby.
-但没人需要这么大一块石头。	No one needed such a large Rock though.
+由于时间有限，没有办法将更多的食物送给别人了。	O tempo era limitado, então não havia como dar comida a todos.
+{0}准备将灵石分给路人。	{0} preparado para dar Spirit Stones aos transeuntes. 
+但没人知道这是什么。	No entanto, ninguém sabia o que eram as pedras brilhantes.
+{0}准备将木头分给路人。	{0} preparado para dar lenha aos transeuntes. 
+但没人需要这么大一根木棍。	Ninguém precisava de um porrete de madeira tão grande.
+{0}准备将石料分给路人。	{0} preparado para dar rocha aos transeuntes.
+但没人需要这么大一块石头。	Ninguém precisava de uma rocha tão grande.
 {0}看了一眼众弟子，好像没有谁比较特别，微微叹了口气。	{0} took a look at the disciples, and sighed as there appeared to be no one special.
 {0}无动于衷，几乎没人通过这次活动认识我们。	{0} were indifferent, so no one really got to know us as a result of the activity.
 {0}尝试安抚他们，与他们闲聊。但{0}从中悟出了一些处世道理，并收获了一些信众。	{0} tries to calm them down by chatting them up. {0} gained some Followers and learned some social skills.
@@ -993,31 +993,31 @@
 [NAME]从蜀山弟子口中得知，尚有一位妖人往中原方向逃窜而无人追捕。他们为了恢复功力，会寻找灵魂强大的凡人来修炼魔功,若放虎归山，怕是会有极大的杀孽。	[NAME] found out from the disciple of Mt. Shu that there was once a demon that fled in a panic towards the central plain pursued by no one. In order to restore their power, they would find commoners with strong souls to practice their magic on. Who knows what murderous power they're capable of.
 [NAME]提着妖人首级回报蜀山，蜀山派以一柄上好飞剑与入定之术的秘籍作为谢礼，青莲剑宗因为这件事欠了你一些人情。	[NAME] reported back to Mt. Shu. You were rewarded handsomely and the Blue Lotus Temple remained in your debt.
 指玄剑	Darkness Seeker
-蜀山派打造的利剑，锋利而有灵性。	A sword forged by the sect of Mt. Shu it is sharp and flexible.
-获得青莲剑宗人情2点。	Gained 2 points of Connection with the Blue Lotus Temple.
+蜀山派打造的利剑，锋利而有灵性。	Uma espada forjada pela seita do Mt. Shu é afiado e flexível. 
+获得青莲剑宗人情2点。	Ganhou 2 pontos de conexão com o Templo de Lótus Azul.
 [NAME]回报蜀山，千魂教的妖人最终逃跑，不知所踪。	[NAME] reported back to Mt. Shu that the devil got away with not trace.
 [NAME]想了想，还是不打算参合这件事了。转身离开蜀山。	[NAME] thought it over and decided to seek consultation. Turned and left.
 [NAME]决定放他离去，这名邪教弟子献上了一本朱漆封皮的诡异秘籍。	[NAME] decided to let him go. The disciple of the Evil Sect left behind a peculiar manual.
 [NAME]不为所动，斩下了这个妖人的首级。	[NAME] was not swayed and beheaded this demon.
-[NAME]离开了昆仑法会。	[NAME] left Kunlun Competition.
+[NAME]离开了昆仑法会。	[NAME] deixou a competição de Kunlun.
 [NAME]虽仅有金丹修为，但却凭天纵之资论败诸多元神老怪，夺得论道头筹，名动天下。	Although [NAME] only had golden core Cultivation, they managed to emerge victorious.
-真·昆仑道尊	True · Kunlun Creed
+真·昆仑道尊	Verdadeiro · Kunlun Crença
 第%s年，以金丹修为于昆仑法会论道优胜！	Emerged victorious in Kunlun Debate as a cultivator of golden core Cultivation in Year %s!
 [NAME]引经据典，舌战群仙，七日论道竟夺得论道头筹，名声大振。	[NAME] cited the classics and debated, and after seven days emerged victorious with greater prestige.
-昆仑道尊	Kunlun Creed
-第%s年，昆仑法会论道优胜！	Victor of the Year %s Kunlun Debate!
+昆仑道尊	Kunlun Crença
+第%s年，昆仑法会论道优胜！	Vencedor do ano %s Kunlun Debate!
 [NAME]引经据典，舌战群仙，但最终还是技差一步，一时间没能接上对方的诘问，遗憾出局。虽然如此，[NAME]也获益匪浅，并为宗门争取了不少名声。	[NAME] cited the classics and debated for what seemed like ages, but was found to be lacking in skill and was knocked out of the contest. Though this was the case, [NAME] reaped more than a little benefit and helped bring honor to the School.
 [NAME]试图参与论道，但是天资鲁钝的[IT]却根本跟不上场上诸位天纵之才的思路。虽然无望仙缘，[NAME]依然在这个过程中感悟良多，获益匪浅。	[NAME] tried to take part in the debate, but [IT] could not keep up with all of the sundry trains of thought. Although Immortal Destiny remained out of grasp, yet [NAME] experienced a great many epiphanies and so gained more than a little benefit in the process.
 [NAME]虽仅有金丹修为，但却凭天纵之资论败诸多元神老怪，夺得论道头筹，名动天下。因[NAME]宗门已有《玉清仙法》传承，此次优胜便选择了一枚天道神丹作为奖励。	Although [NAME] only had golden core Cultivation, they managed to emerge victorious. As [NAME]'s School already possessed the "Jade Purity Immortal Law," so an Eureka Pill was chosen as the prize this time.
 [NAME]引经据典，舌战群仙，数日论道竟夺得论道头筹，名声大振。因[NAME]宗门已有《玉清仙法》传承，此次优胜便选择了一枚天道神丹作为奖励。	[NAME] cited the classics and debated, and after several days emerged victorious with greater prestige. As [NAME]'s School already possessed the "Jade Purity Immortal Law," so an Eureka Pill was chosen as the prize this time.
-[NAME]参与法会，观摩诸位大能论道，获益匪浅！	[NAME] took part and gained more than a little benefit from the debates!
+[NAME]参与法会，观摩诸位大能论道，获益匪浅！	[NAME] participou e lucrou muito com os debates!
 台上演法到激烈之处，[NAME]灵感一闪，竟然还领悟了一门秘籍！	[NAME] felt a rush of excitement and even came to understand a secret manual!
 [NAME]虽仅有金丹修为，但其对炼器一道的独到理解却折服在场诸多高人，最终被选为优胜，名动天下。	Although [NAME] only had golden core Cultivation, but was not swayed by the others' arguments and managed to emerge victorious.
-真·昆仑神匠	True · Kunlun Craftsman
+真·昆仑神匠	Verdadeiro · Kunlun Forjador
 第%s年，以金丹修为于昆仑法会炼宝优胜！	Emerged victorious in Artifact Crafting Contest at the Kunlun Competition as a cultivator of golden core Cultivation in Year %s!
 [NAME]展示出在炼器之道上高超的理解，并折服诸多与会之人，拔得头筹，名声大振。	[NAME] demonstrated an understanding of high-level techniques of Artifact Crafting and emerged victorious.
-昆仑神匠	Kunlun Craftsman
-第%s年，昆仑法会炼宝优胜！	Victor of the Year %s Kunlun Competition Artifact Crafting Contest!
+昆仑神匠	Kunlun Forjador
+第%s年，昆仑法会炼宝优胜！	Vencedor do ano %s Kunlun Consurso da competição de criação de artefato!
 [NAME]虽然精通炼器之术，但是却在构思上略输一筹，最终遗憾出局。虽然如此，[NAME]也获益匪浅，并为宗门争取了不少名声。	Although [NAME] is proficient in Artifact Crafting, yet was ultimately knocked out of the competition. Though this was the case, [NAME] reaped more than a little benefit and helped bring honor to the School.
 [NAME]试图参与炼宝大会，然而他在炼器之道上造诣不足，惨被淘汰。虽然无望仙缘，[NAME]依然在这个过程中感悟良多，获益匪浅。	[NAME] tried to participate in the Artifact Crafting competition, however though was ultimately eliminated from the competition. Although Immortal Destiny remained out of grasp, yet [NAME] experienced a great many epiphanies and so gained more than a little benefit in the process.
 [NAME]虽仅有金丹修为，但其对炼器一道的独到理解却折服在场诸多高人，最终被选为优胜，名动天下。因[NAME]宗门已有《己寅九冲多宝真解》传承，此次优胜便选择了一柄玉虚宫珍藏的神器作为奖励。	Although [NAME] only had golden core Cultivation, but was not swayed by the others' arguments and managed to emerge victorious. As [NAME]'s School already has the "Myriad Artifact Law," so this time the prize chosen is a weapon from the Jade Void Palace.
@@ -1241,7 +1241,7 @@
 [NAME]渐渐听得入迷，条条玄妙流淌中大有参悟。	[NAME] was enthralled, it was as if mysteries were revealing their secrets, and much was gained from it.
 [NAME]从玄妙的声音中竟然领悟出一套秘法。	[NAME] suddenly understood a Secret Law from the mysterious voice.
 [NAME]听得仙人讲法，竟然福至心灵的领悟到一丝偷天机的法门。	[NAME] via listening to the Immortals' way of conversing came to understand a glimmer of nature's mysteries.
-[NAME]道行降低了%s点。	[NAME]'s Attainment decreased %s points.
+[NAME]道行降低了%s点。	[NAME] Teve a realização diminuida em %s pontos.
 鸿蒙	Great Vastness
 混沌	Chaos
 玄黄	Heaven and Earth
@@ -1347,82 +1347,82 @@
 在未来不久，天逢之刻即将到来。	The Moment of Unification is in the near future.
 天逢之刻已至。	The time has come.
 伴随着归寂之地积累的千年时光气运逆转，魔帝付辟空运转《誊天书》，借东皇敕令洞开乾坤界。时隔无量岁月，两界终于再度开始归一。\n\n受大千世界天道影响，此界天道逐渐崩溃，所有修行者均随着天道崩溃而失去修为，修为高者越甚。修仙界因此陷入前所未有的混乱。\n\n然而这一切都与你们无关了，在这场混乱波澜方起之刻，你便率领门下弟子踏入归寂之地的时空门，紧跟付辟空的步伐前往了传说中的大千世界。\n\n仙路茫茫，未来福祸机缘究竟如何，一切犹未可知……	As time in the Place of Desolation began to move forward, the Emperor of Demons, Fu Pikong, opened up the Universe with the divine order of Eastern Sovereign in the Book of Heavenly Edicts. After countless years, the two realm finally started to merge into one.\n\nAffected by the rules in Boundless Universe, all cultivators, especially with high attainment, were losing their cultivation while this realm began to crumble. The cultivation world descended into a complete chaos.\n\nHowever, none of it mattered to you now. Before the final moment, you stepped into the spacetime portal with all your disciples, following Fu Pikong and entering the Boundless Universe.\n\nThe path to immortality is not yet over. Let's wait and see what the future brings.
-请赐教！	Please grant instruction!
-让我看看你的本事！	Show me what you got!
-得罪了！	No offence!
-道友请！	Please, my friend!
-请指教！	Please grant instruction!
-看招吧！	Watch this!
-请指点！	Please grant instruction!
-一分高下	Contest with each other
+请赐教！	Por favor, conceda instrução!
+让我看看你的本事！	Mostre-me o que você tem!
+得罪了！Sem ofensa!
+道友请！	Por favor meu amigo!
+请指教！	Por favor, conceda instrução!
+看招吧！Vê isto!
+请指点！	Por favor, conceda instrução!
+一分高下	Competir um com o outro
 离斗法结束还剩	Time Remines
-不分胜负。	Draw.
-请赐教！	Please grant instruction!
-让我看看你的本事！	Show me what you got!
-得罪了！	No offence!
-道友请！	Please, my friend!
-请指教！	Please grant instruction!
-看招吧！	Watch this!
-请指点！	Please grant instruction!
-分享码错误或者召唤失败，请重新再试	Invalid Code or Summon fail, try again
-一分高下	Contest with each other
+不分胜负。	Desenhar.
+请赐教！	Por favor, conceda instrução!
+让我看看你的本事！	Mostre-me o que você tem!
+得罪了！	Sem ofensa!
+道友请！	Por favor meu amigo!
+请指教！	Por favor, conceda instrução!
+看招吧！	Vê isto!
+请指点！	Por favor, conceda instrução!
+分享码错误或者召唤失败，请重新再试	Código inválido ou falha de invocação, tente novamente
+一分高下	Competir um com o outro
 离斗法结束还剩	Time Remines
-不分胜负。	Draw.
-请输入分享码	Enter Share code
-上古之兽 · 蛟龙即将来袭。	Ancient Beast: Flood Dragon is coming.
-上古之兽 · 凶凤即将来袭。	Ancient Beast: Phoenix is coming.
+不分胜负。	Desenhar.
+请输入分享码	Insira o código de compartilhamento
+上古之兽 · 蛟龙即将来袭。	Besta Antiga: O Dragão do Dilúvio está chegando.
+上古之兽 · 凶凤即将来袭。	Besta Antiga: a Fênix está chegando.
 受阴阳之息的牵引，上古之兽 · 烛龙即将在你的门派化形而出。	Guided by Yin and Yang, the Ancient Beast Torch Dragon will appear in your Sect.
-[%s]·[%s]的袭击即将到来。	[[%s]]·[[%s]]'s attack is coming.
-请选择跟随目标	Select a target to follow
-跟行商对话	Speak with the merchant
-上午	Morning
-中午	Noon
-下午	Afternoon
-晚上	Night
-只有寥寥数人前来	Just a few came.
-前来的信众摩肩接踵	The Followers were packing in like sardines.
-一时间广场上人山人海	There was a sea of people in the square.
-今天%s, %s开始招揽弟子，%s。代理人一数，共%s人前来。	Today %s, %s will start to recruit Disciples, %s. A total of %s people came.
-今天%s, %s的代理人%s开始招揽弟子，%s。代理人一数，共%s人前来。	Today %s, %s's Agent %s will start to recruit Disciples, %s. A total of %s people came.
-招揽	Recruit
-请赐教！	Please grant instruction!
-让我看看你的本事！	Show me what you got!
-得罪了！	No offence!
-道友请！	Please, my friend!
-请指教！	Please grant instruction!
-看招吧！	Watch this!
-请指点！	Please grant instruction!
-一分高下	Contest with each other
+[%s]·[%s]的袭击即将到来。	[[%s]]·[[%s]]o ataque de está chegando.
+请选择跟随目标	Selecione um alvo para seguir
+跟行商对话	Fala com o comerciante
+上午	Manhã
+中午	Meio-dia
+下午	Tarde
+晚上	Noite
+只有寥寥数人前来	Apenas alguns vieram.
+前来的信众摩肩接踵	Os Seguidores estavam embalando como sardinhas.
+一时间广场上人山人海	Havia um mar de pessoas na praça.
+今天%s, %s开始招揽弟子，%s。代理人一数，共%s人前来。	Hoje %s, %s começará a recrutar discípulos,  %s. Um total de %s pessoas vieram.
+今天%s, %s的代理人%s开始招揽弟子，%s。代理人一数，共%s人前来。	Hoje %s, %sAgente de %s começará a recrutar discípulos, %s. Um total de %s pessoas vieram.
+招揽	Recrutar
+请赐教！	Por favor, conceda instrução! 
+让我看看你的本事！	Mostre-me o que você tem!
+得罪了！	Sem ofensa!
+道友请！	Por favor meu amigo!
+请指教！	Por favor, conceda instrução!
+看招吧！	Vê isto!
+请指点！	Por favor, conceda instrução!
+一分高下	Competir um com o outro
 离斗法结束还剩	Time Remines
-不分胜负。	Draw.
-一	One
-二	Two
-三	Three
-四	Four
-五	Five
-六	Six
-七	Seven
-八	Eight
-九	Nine
-十	Ten
-百	Hundred
-千	Thousand
+不分胜负。	Desenhar.
+一	Um
+二	Dois
+三	Três
+四	Quatro
+五	Cinco
+六	Seis
+七	Sete
+八	Oito
+九	Nove
+十	Dez
+百	Centenas
+千	Mil
 %s零	%s Zero
-万	Ten Thousand
-亿	Hundred Million
+万	Dez mil
+亿	Cem milhões
 零	Zero
-负	Minus
-%s个半小时	%s and half hours
-半个小时	half an hour
-%s个小时	%s hour(s)
-%d秒	%d second(s)
-%d分%d秒	%d min %d sec
-%.1f小时	%.1f Hour(s)
-%.1f天	%.1f Day(s)
-观赏	Enjoy the sight
-除了因为摩擦变得有些微热，硬币毫无反应……	Except for some heat caused by friction, there was no reaction…
-摩擦硬币	Rub the coin
-硬币发生了微微的振动，似乎有什么事情发生了……	The coin vibrated slightly, it seems like something happened…
+负	Menos
+%s个半小时	%s e meia hora
+半个小时	meia hora
+%s个小时	%s hora(s)
+%d秒	%d segundo(s)
+%d分%d秒	%d min %d seg
+%.1f小时	%.1f horas(s)
+%.1f天	%.1f Dia(s)
+观赏	Apreciar a vista
+除了因为摩擦变得有些微热，硬币毫无反应……	Exceto por um pouco de calor causado pela fricção, não houve reação ...
+摩擦硬币	Esfregue a moeda
+硬币发生了微微的振动，似乎有什么事情发生了……	A moeda vibrou ligeiramente, parece que algo aconteceu ...
 %s成功将天气吸入其中	%s absorbed the weather
 吸收天气	Absorb Weather
 %s毫无反应	%s had no reaction
@@ -1430,23 +1430,23 @@
 北斗星光	The Grand Chariot Starlight
 %s今天已经处于饱满状态	%s It's full today
 %s成功将北斗星光吸入其中	%s absorbed the starlight of the Grand Chariot
-喂养宝物	Feed the artifact
-该物品只能在野外地图使用	This item can only be used in field maps
+喂养宝物	Alimente o artefato
+该物品只能在野外地图使用	Este item só pode ser usado em mapas de campo
 追钟	Time Attack
-未知	Unknown
-送礼	Gift
+未知	Desconhecido
+送礼	Presente
 将身上的某件物品送给对方，需要好感度大于等于20。当与门派好感度足够高时，可能会将随身宝物作为回礼。	Gift one of your items to the other party. To do this, you need Favor greater than 20. When you have enough Favor with a Sect, they may return the favor with their Personal Treasure.
-邀请	Invite
-邀请对方到你的门派做客，需要好感度大于等于60。	Invite the other party to your sect, requires Favor of at least 60.
-进来发呆	Daydream
+邀请	Convidar
+邀请对方到你的门派做客，需要好感度大于等于60。	Convidar a outra parte para sua seita, requer Favor de pelo menos 60.
+进来发呆	Sonhar Acordado
 移动	Move
-等待移动	Wait for them to move.
-等待10s	Waiting (10 sec)
+等待移动	Espere que eles se movam.
+等待10s	Espera (10 sec)
 难过	Upset
-想念	Missing
-等待	Wait
-不能对敌方角色使用	Cannot be used on enemy characters.
-该目标已经失去灵智	The target is dumbfounded.
+想念	Perdido
+等待	Espere
+不能对敌方角色使用	Não pode ser usado em personagens inimigos.
+该目标已经失去灵智	O alvo está pasmo.
 [color=MYCOLOR]%s[/color]被[color=#HECOLOR]%s[/color]逗笑了，随手扔了一件物品给它玩。	[color=MYCOLOR]%s[/color] was amused by [color=#HECOLOR]%s[/color], and threw an item for it to play with.
 [color=MYCOLOR]%s[/color]觉得[color=HECOLOR]%s[/color]真可爱，好像从冰冷的修仙界找到了一丝温度，心防不在不知不觉中被打开了。	[color=MYCOLOR]%s[/color] thinks [color=HECOLOR]%s[/color] is really cute. As if finding a flimsy source of warmth in the cold world of cultivation, the lonely soul unknowingly opened up its heart.
 随着天机变动，这个神通似乎已失去了作用。	The miracle seems to have lost its effect.
@@ -1494,19 +1494,19 @@
 该物品不是法宝胚胎	This item is not an artifact incubation.
 将灵源种埋在此处，会在三年中慢慢生效！	Bury the Spirit Seed here, and it will slowly take effect during the next 3 years!
 埋下灵源种	Bury Spirit Seed
-春	Spring
-夏	Summer
-秋	Autumn
-冬	Winter
+春	Primavera
+夏	Verão
+秋	Outono
+冬	Inverno 
 %s采摘完后，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	After picking the fruit, %s inspected the plant and calculated. It seemed that %s would be ripe again in %s %s, year %s of the Tiancang era.
 灵根备忘录	Spirit Root Memorial
 %s十分懊恼，只得仔细查看了灵植的长势，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	%s inspected the plants and calculated in frustration. It seemed that %s would be ripe again in %s%s, year %s of the Tiancang era.
 %s十分懊恼，采摘完剩下的灵植后，仔细查看了灵植的长势，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	After picking the rest of the roots in frustration, %s inspected the plants and calculated. It seemed that %s would be ripe again in %s%s, year %s of the Tiancang era.
 金	Metal
-木	Wood
-水	Water
-火	Fire
-土	Earth
+木	Madeira
+水	Água
+火	Fogo
+土	Terra
 [NAME]感觉与%s的灵性更融洽了。	[NAME] felt more harmonious around the Blessed %s.
 [NAME]感觉与%s的灵性多了一些滞涩的感觉。	[NAME] felt less harmonious around the Blessed %s.
 [NAME]感觉与%s的煞性多了一些滞涩的感觉。	[NAME] felt less harmonious around the Cursed %s.
@@ -1538,24 +1538,24 @@
 [NAME]生长过程中，树干之上忽有异状，似乎要分泌出一些事物。不过由于灵气不足，最终只出现了一些无用之物。	While [NAME] was growing, something strange appeared on the tree trunk, as if it's secreting something. Its Qi was insufficient though, so only some useless junk appeared.
 [NAME]树干之上忽有异状。竟然不知何时分泌出一些事物。	Something strange appeared on [NAME]'s trunk. Who knows when, but some things were secreted.
 [NAME]树干之上忽有异状，似乎要分泌出一些事物。不过由于灵气不足，最终只出现了一些无用之物。	Something strange appeared on [NAME]'s trunk, as if it's secreting something. Its Qi was insufficient though, so only some useless junk appeared.
-无事发生	Nothing happened.
-决定不处理这个事件。	decided to leave things be.
-决定使用处世来解决事件。	decided to use their Social Skill to deal with the situation.
-决定依靠魅力来解决事件。	decided to use their Charisma to deal with the situation.
-决定使用武力来解决事件。	decided to use their fighting prowess to deal with the situation.
-决定依靠悟性来解决事件。	decided to use their Intelligence to deal with the situation.
-决定使用食物来解决事件。	decided to use Food to deal with the situation.
-决定使用灵石来解决事件。	decided to use Spirit Stones to deal with the situation.
-决定使用原木来解决事件。	decided to use Wood to deal with the situation.
-决定使用石头来解决事件。	decided to use Rock to deal with the situation.
-决定选择某个弟子来解决事件。	decided to choose a Disciple to deal with the situation.
-代理人{1}想了想，{0}	The agent {1} thought it over and {0}
-获得了{0}点影响值。	Gained {0} Influence.
-代理人{3}在{2}收获了{0}个{1}	{3} harvested {0} {1} in {2}.
-啥都没有拿到。	Nothing was able to be had.
-代理人让弟子一起努力	The Agent encouraged the Disciples to work together
-代理人和弟子并没有那么高的体力，啥都没找到。	The agent and Disciples ability was lacking, so nothing was found.
-代理人凭借力量挖掘，并仔细辨认	The Agent used brute force to dig.
+无事发生	Nada aconteceu.
+决定不处理这个事件。	decidiu deixar as coisas como estão.
+决定使用处世来解决事件。	decidiu usar sua habilidade social para lidar com a situação.
+决定依靠魅力来解决事件。	decidiu usar seu carisma para lidar com a situação. 
+决定使用武力来解决事件。	decidiu usar sua habilidade de luta para lidar com a situação.
+决定依靠悟性来解决事件。	decidiu usar sua inteligência para lidar com a situação.
+决定使用食物来解决事件。	decidiu usar alimentos para lidar com a situação.
+决定使用灵石来解决事件。	decidiu usar pedras estirituais para lidar com a situação. 
+决定使用原木来解决事件。	decidiu usar lenha para lidar com a situação.
+决定使用石头来解决事件。	decidiu usar rochas para lidar com a situação. 
+决定选择某个弟子来解决事件。	decidiu escolher um discípulo para lidar com a situação. 
+代理人{1}想了想，{0}	O agente {1} pensou sobre isso e {0}
+获得了{0}点影响值。	Ganhou {0} Influência.
+代理人{3}在{2}收获了{0}个{1}	{3} colhido  {0} {1} no {2}.
+啥都没有拿到。	Nada foi capaz de ser obtido.
+代理人让弟子一起努力	O Agente encorajou os discípulos a trabalharem juntos
+代理人和弟子并没有那么高的体力，啥都没找到。	A habilidade do agente e dos discípulos estava em falta, então nada foi encontrado. 
+代理人凭借力量挖掘，并仔细辨认	O agente usou força bruta para cavar.
 代理人虽用灵石作引，但无法辨认宝物在何方。啥都没找到。	Although the Spirit Stones helped as a guide, but there was no way to be sure of the Treasure's location. Nothing was found.
 代理人使用灵石作引	The Agent used the Spirit Stones as a guide
 代理人使用木头开凿，但无法辨认出宝物	The Agent used Wood to dig, but didn't find any Treasure.
