@@ -1550,7 +1550,7 @@ Name	Name
 创建XML文件成功!	Documento XML criado!
 创建文件失败	Falha ao criar documento.
 围观	Assistir
-慕名而来	Venha aqui pela sua reputação 
+慕名而来	Veio aqui pela sua reputação 
 劫掠而来	Come here and Rob you
 雷击	Chove trovões em todo o mundo
 混沌初开，乾坤始奠	O caos se espalha de onde o céu e a terra nascem
@@ -2696,7 +2696,7 @@ Lua代码不能为空	Lua script cannot be empty.
 难度调整	Dificuldades
 系统设置	Configurações
 {1}季\n剩余{0}天	{1}\n{0} dia(s) remanescente.
-游戏 暂停/继续\n[keycode]GamePauseOrPlay[/keycode]	Pausa do jogo/Jogar\n[keycode]GamePauseOrPlay[/keycode]
+游戏 暂停/继续\n[keycode]GamePauseOrPlay[/keycode]	Pausar o jogo/Jogar\n[keycode]GamePauseOrPlay[/keycode]
 1倍速\n[keycode]SpeedP[/keycode]  降低速度\n[keycode]SpeedN[/keycode]  提升速度	1x a Velocidade\n[keycode]SpeedP[/keycode] Baixe a Velocidade\n[keycode]SpeedN[/keycode] Aumente a velocidade
 2倍速\n[keycode]SpeedP[/keycode]  降低速度\n[keycode]SpeedN[/keycode]  提升速度	2x a Velocidade\n[keycode]SpeedP[/keycode] Baixe a Velocidade\n[keycode]SpeedN[/keycode] Aumente a velocidade
 {0}倍速\n[keycode]SpeedP[/keycode]  降低速度\n[keycode]SpeedN[/keycode]  提升速度	{0}x a Velocidade\n[keycode]SpeedP[/keycode] Baixe a Velocidade\n[keycode]SpeedN[/keycode] Aumente a velocidade
